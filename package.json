@@ -1,7 +1,7 @@
 {
   "name": "@jmlq/mailer",
   "description": "A simple mailer package built with TypeScript and Nodemailer, following clean architecture principles.",
-  "version": "0.1.4-alpha.7",
+  "version": "0.0.1-beta.1",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "repository": {
