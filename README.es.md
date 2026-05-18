@@ -1,5 +1,7 @@
 # @jmlq/mailer 🧩
 
+![](./assets/jmlq-mailer-banner.png)
+
 ## 🎯 Objetivo
 
 `@jmlq/mailer` es un paquete diseñado para enviar correos electrónicos siguiendo principios de **Clean Architecture**.
@@ -133,6 +135,10 @@ El paquete soporta:
 - [Configurar proveedor de correo](./docs/es/configuration.md#configuración--jmlqmailer-️)
 - [Crear instancia de mailer](./docs/es/configuration.md#crear-instancia-del-mailer)
 - [Integrar en la aplicación](./docs/es/integration-express.md)
+
+## 🧩 Ejemplo de implementación
+
+- [Consultar documentación e integración real](https://github.com/MLahuasi/jmlq-ecosystem/blob/main/doc/es/%40jmlq/mailer/core.md)
 
 ---
 
