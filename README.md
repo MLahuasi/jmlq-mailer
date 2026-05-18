@@ -1,6 +1,6 @@
 # @jmlq/mailer 🧩
 
-![](./assets/jmlq-mailer-banner.png)
+![](./assets/jmlq-mailer-banner-en.png)
 
 ## 🎯 Objective
 
